@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+              <ns2:RespuestaAutorizacion xsi:type='ns2:autorizacion' xmlns:ns2='http://ec.gob.sri.ws.autorizacion' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+              <estado>AUTORIZADO</estado>
+              <numeroAutorizacion>1512202201110426403900120010010000004421234567813</numeroAutorizacion>
+              <fechaAutorizacion>2022-12-15T18:47:50-05:00</fechaAutorizacion>
+              <ambiente>PRODUCCIÓN</ambiente>
+              <comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>GALO MAURICIO VARGAS AGUILAR</razonSocial>
+<nombreComercial>NOVEDADES VARGAS</nombreComercial>
+<ruc>1104264039001</ruc>
+<claveAcceso>1512202201110426403900120010010000004421234567813</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000000442</secuencial>
+<dirMatriz>CDLA ALBORADA AV RODOLFO BAQUERIZO NAZUR MZ 902 Y BENJAMIN CARRION</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>15/12/2022</fechaEmision>
+<dirEstablecimiento>GUAYAQUIL</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>GIL MORENO SILVIA MARIA</razonSocialComprador>
+<identificacionComprador>0930331863</identificacionComprador>
+<totalSinImpuestos>40.1</totalSinImpuestos>
+<totalDescuento>0</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<baseImponible>40.1</baseImponible>
+<valor>4.81</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>44.91</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>44.91</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>FAM.TIP.677</codigoPrincipal>
+<descripcion>CINTA ADHESIVA DOBLE FAZ 1M</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>1.75</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.75</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1.75</baseImponible>
+<valor>0.21</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.146</codigoPrincipal>
+<descripcion>DEPILADOR DE CEJAS Y BIGOTE</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>3</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>3</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>3</baseImponible>
+<valor>0.36</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>hog.hog.029</codigoPrincipal>
+<descripcion>CABEZAL DE DUCHA DE ALTA PRESION</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>2.5</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>2.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>2.5</baseImponible>
+<valor>0.3</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.269</codigoPrincipal>
+<descripcion>GANCHOS CUADRADOS</descripcion>
+<cantidad>5</cantidad>
+<precioUnitario>0.2</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1</baseImponible>
+<valor>0.12</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>hog.hog.010</codigoPrincipal>
+<descripcion>ADAPTADOR DE GRIFO METALICO</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>1.5</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1.5</baseImponible>
+<valor>0.18</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>hog.hog.076</codigoPrincipal>
+<descripcion>GUANTE DE LIMPIEZA DE MICROFIBRA</descripcion>
+<cantidad>2</cantidad>
+<precioUnitario>1</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>2</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>2</baseImponible>
+<valor>0.24</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.1328</codigoPrincipal>
+<descripcion>EXPRIMIDOR METALICO DE JUGO</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>6.5</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>6.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>6.5</baseImponible>
+<valor>0.78</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.1192</codigoPrincipal>
+<descripcion>PINZA MULTIFUNCIONAL ESPATULA 3 EN 1</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>1.5</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1.5</baseImponible>
+<valor>0.18</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.972</codigoPrincipal>
+<descripcion>ESPUMA DEPILADORA</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>3</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>9</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>9</baseImponible>
+<valor>1.08</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.483</codigoPrincipal>
+<descripcion>ORGANIZADOR DE ARMADORES</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>0.5</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1.5</baseImponible>
+<valor>0.18</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.1334</codigoPrincipal>
+<descripcion>DIADEMA ONDULADA DECORATIVA PARA NINAS</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>0.5</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1.5</baseImponible>
+<valor>0.18</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.206</codigoPrincipal>
+<descripcion>ALFOMBRA TAPETE PARA CARRO</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>5</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>5</baseImponible>
+<valor>0.6</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>FAM.TIP.521</codigoPrincipal>
+<descripcion>CHE-344581 ATRAPA PELUSAS PARA LAVADORA</descripcion>
+<cantidad>3</cantidad>
+<precioUnitario>0.2</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>0.6</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>0.6</baseImponible>
+<valor>0.07</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>hog.hog.109</codigoPrincipal>
+<descripcion>ZW9058 SLIM PATCH 30 PARCHES</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>1.5</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>1.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>1.5</baseImponible>
+<valor>0.18</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>hog.hog.102</codigoPrincipal>
+<descripcion>BOLITAS PARA DESENREDAR 4 PCS</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>0.5</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>0.5</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>0.5</baseImponible>
+<valor>0.06</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>hog.hog.050</codigoPrincipal>
+<descripcion>80176 ESPARCIADOR DE ACEITE</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>0.75</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>0.75</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>2</codigoPorcentaje>
+<tarifa>12</tarifa>
+<baseImponible>0.75</baseImponible>
+<valor>0.09</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">CDLA. ATARAZANA MZ D3 VILLA 8</campoAdicional>
+<campoAdicional nombre="Telefono">0996316609</campoAdicional>
+<campoAdicional nombre="Email">merysgm90@gmail.com</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature839255">
+<ds:SignedInfo Id="Signature-SignedInfo402482">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID743765" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature839255-SignedProperties511582">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>3LuzC5TfUz9c5s6GdljryaNZI1g=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1808021">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ehTgF9DEzACWIq0AZo1s4f2lZwY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-461058" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>jCIkZsvXJOQxcwpSVZgh9ZlGt6g=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue281681">
+d7ruTUdtbbR+svHbMGg0UdT2qFcXUU5fHlQsJtvAdqv1VYSasyw3C2Vxff75QEhex9ULw9He9jr6
+5Qj0Xjl13rtp6KJJNLeBA03VG3iqwXy1CXCr+Ij9TjGU/CDNLvWoK4TlyXd5GIeTxlqY2Sqxayw4
+jUznnMyqtn00wXyzK5mlAlMq0T8E3ETtUi9tC9TiyK1BYVINjj3eJfvYQ0IH8cc18cdZT26pe8A8
+W/1vXO7HGrm/1+65F5ZYgK/jMKpM8pbY1mDXDmnq2dJ7oCgFYDTSLUxLX5zWjFAeXlXfC9drTXZr
+9AVxJxxlJgVh5AEmPyNTwtqWdKKr9C+WZqBZ9w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1808021">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL7zCCCdegAwIBAgIEP1AK7DANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjA3MjkyMzQwNDlaFw0yNzA3MjkyMzQwNDlaMIGcMSUw
+IwYDVQQDDBxHQUxPIE1BVVJJQ0lPIFZBUkdBUyBBR1VJTEFSMRUwEwYDVQQFEwwyOTA3MjIxODUw
+MzIxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEA7AawHYZAd1IbUze+1VTL0tIFP9LG4fSjmXgstXyjIjPLP5/wG6kuGwGZ
+U2ylmVa2xoJUlOFOFYE3vpCZ25yiogXCAV+YhDo1EC3CP6ehCzSkaNxF+VR19NA+MTkG1uIIhir4
+TcsbExSwCX046gv40oWYE1nlZSsHRqHcZbM9XBrAW5KrO4MlwCPG3YAe3jgYG6VT0PGfVjk8tcBA
+rBIgG6jWSJrTSMllvXK0DtAPRnLNqmqWHOMFCLcutVMSYeaWqOxo1lb6wnlBV9JoEi7vEU8pHP4W
+BynFCr0foPejUAV1EGB/GZLtIHtoQ0XV4JtjRrwARGRgcS9DH/bRegVjbwIDAQABo4IHODCCBzQw
+DAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcB
+AQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJj
+YS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9s
+ZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0
+P2Jhc2UwHgYDVR0RBBcwFYETZ212YXJnYXNhQGdtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgor
+BgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAg
+AFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEF
+BQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fk
+cy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQ
+ZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZ
+MTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsG
+A1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDov
+L2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FD
+SU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2Nh
+dGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNz
+dWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxP
+VT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRB
+IFMuQS4gMixDPUVDMB0GA1UdDgQWBBSLRefmIY/CRK7ivZCtldQ+kZ9LjzArBgNVHRAEJDAigA8y
+MDIyMDcyOTIzNDA0OVqBDzIwMjcwNzI5MjM0MDQ5WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnID
+AQQMDAoxMTA0MjY0MDM5MBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMBEGCisGAQQBgqZyAyIE
+AwwBLjBQBgorBgEEAYKmcgMHBEIMQEFWIFJPRE9MRk8gQkFRVUVSSVpPIE5BWlVSIE1aIExPQ0FM
+IDQgWSBBVkVOSURBIEJFTkpBTUlOIENBUlJJT04wHQYKKwYBBAGCpnIDAgQPDA1HQUxPIE1BVVJJ
+Q0lPMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwMjM1ODE3MBEGCisGAQQBgqZyAyMEAwwBLjAT
+BgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFgYKKwYBBAGCpnID
+AwQIDAZWQVJHQVMwEQYKKwYBBAGCpnIDHgQDDAEuMB0GCisGAQQBgqZyAwsEDwwNMTEwNDI2NDAz
+OTAwMTARBgorBgEEAYKmcgMdBAMMAS4wFwYKKwYBBAGCpnIDBAQJDAdBR1VJTEFSMBoGCisGAQQB
+gqZyAwgEDAwKMDk4MDEzMzgxNDANBgkqhkiG9w0BAQsFAAOCAgEAf7farL21BqH5cjCQ3nLW9nwi
+3docBi/bDyXvNUMsC6qZA/EI2sJPKN62ptzWPzAvHjcczgOnFn14DxDZJ0Tp65e5sikYS2e8Xhqy
+azevwPAK0Vfz1mIKJJ/0DiLE+EEIxE8+GjDpsDIFhEBQcJzgySy6+GAxE6N4U8xgdg+XYKyfjIOg
+LEl0LJA33DAA0jaX86FI2OuTFpSD80OHogINeGrxOfF1U1HyQwv+4FpxwRZlyQEDtlGIwJix5SG7
+mRAQ6RdKTi1qOO8Qve8qRJ1ioR4X+hEdHaSM1jRQtOSlyWTDRPC04RmdDKk0+p5FX+cEkclNNFn7
+gKq5BpiOlAFcCcT/pigVbmGxTdmn99OIzQO5nCE91saBQ8IcjT0GEYlX0pMcUgyeC4FovilbB6fJ
+N9KqTEseIAbl3deTFZ5UUUT/kDjF8ZOSPuzPu95OifB7hRwSvJbtGYASUYdeq1OskQDh1xUCL5kY
+auZ5EdTITCi94c1sYNMrwpwhQYl4DrrifCO+U1JRb0Drod79zsquRlHFwlnNXm5CpMvPmJtYPyG5
+mt5AMf37zoNJdMgqeoSjXpzR9WOfo4S7qZdmeOoFH/ogOe+bc1SGNKYpzwbVmnLgPA3XDuNmOneb
+zobbjpBtMN6iAh7DrS0RQUxgY48c3WkGgvNeQkHLlilmEz2oDS4=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+7AawHYZAd1IbUze+1VTL0tIFP9LG4fSjmXgstXyjIjPLP5/wG6kuGwGZU2ylmVa2xoJUlOFOFYE3
+vpCZ25yiogXCAV+YhDo1EC3CP6ehCzSkaNxF+VR19NA+MTkG1uIIhir4TcsbExSwCX046gv40oWY
+E1nlZSsHRqHcZbM9XBrAW5KrO4MlwCPG3YAe3jgYG6VT0PGfVjk8tcBArBIgG6jWSJrTSMllvXK0
+DtAPRnLNqmqWHOMFCLcutVMSYeaWqOxo1lb6wnlBV9JoEi7vEU8pHP4WBynFCr0foPejUAV1EGB/
+GZLtIHtoQ0XV4JtjRrwARGRgcS9DH/bRegVjbw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature839255-Object535049"><etsi:QualifyingProperties Target="#Signature839255"><etsi:SignedProperties Id="Signature839255-SignedProperties511582"><etsi:SignedSignatureProperties><etsi:SigningTime>2022-12-15T18:47:49-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>CiXsdvoaBK8dcEv/T/QlwkzSWvY=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1062210284</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-461058"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+              <mensajes/>
+              </ns2:RespuestaAutorizacion>
